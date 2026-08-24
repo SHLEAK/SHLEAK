@@ -1,20 +1,23 @@
-# Hi there, I'm Jenny
+# Hi there, I'm Jenny 👋
 
-I like building things, experimenting with them, and figuring out how they work. I'm working toward cybersecurity.
+I am specializing in **Cybersecurity Blue Team operations, Network Defense, and Systems Analysis**.
 
-## About me
+## About Me
 
-* Pronouns: she/her
-* Languages: English · Italian · Korean
+* **Pronouns:** she/her
+* **Languages:** English · Italian · Korean
 
+## Core Toolset
 
-## Education
-### University — September 2025 → August 2027
+* **Languages:** Python, JavaScript, HTML/CSS, Shell / Fish Scripting
+* **Networking & Security:** Wireshark, Nmap, Binwalk, Packet Analysis
+* **OS & Environments:** Linux, macOS, Git, Docker
 
-- Performs structured threat, risk, and vulnerability analyses of existing systems.
-- Formulates security advice based on offensive and defensive security activities.
-- Designs, implements, and tests basic offensive and defensive security measures and techniques.
+## Featured Projects & Repositories
+
+* **[secret-chat](https://github.com/SHLEAK/secret-chat):** Peer-to-peer encrypted chat interface built with JavaScript and WebRTC protocols.
+* **[connection-boycott](https://github.com/SHLEAK/connection-boycott):** Custom Python automation script for monitoring and terminating network connection events from specified IP ranges.
 
 ---
 
-Feel free to explore my repositories.
+Feel free to explore my repositories or reach out on [LinkedIn](https://linkedin.com/in/hisu-han-aa4796203)!
