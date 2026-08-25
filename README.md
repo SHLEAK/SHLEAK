@@ -9,7 +9,7 @@ I am specializing in **Cybersecurity Blue Team operations, Network Defense, and 
 
 ## Core Toolset
 
-* **Languages:** Python, JavaScript, HTML/CSS, Shell / Fish Scripting
+* **Languages:** Python, Scapy, Wireshark, Nmap, Binwalk, Docker, Linux, Shell Scripting
 * **Networking & Security:** Wireshark, Nmap, Binwalk, Packet Analysis
 * **OS & Environments:** Linux, macOS, Git, Docker
 
@@ -21,3 +21,4 @@ I am specializing in **Cybersecurity Blue Team operations, Network Defense, and 
 ---
 
 Feel free to explore my repositories or reach out on [LinkedIn](https://linkedin.com/in/hisu-han-aa4796203)!
+
