@@ -4,7 +4,6 @@ I am specializing in **Cybersecurity Blue Team operations, Network Defense, and 
 
 ## About Me
 
-* **Pronouns:** she/her
 * **Languages:** English · Italian · Korean
 
 ## Core Toolset
